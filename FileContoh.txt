@@ -1,0 +1,12 @@
+Ini Adalah File External.
+Dan ini adalah baris ke-dua.
+
+Data
+No  Nama
+1   RizkyKhapidsyah
+2   DessyPuspitaSari
+3   Lia
+4   Nova
+5   Erwin
+6   Ayah
+7   Ibu
